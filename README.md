@@ -46,7 +46,7 @@ Language: Java
 
 Clone the repository
 
-git clone https://github.com/yourusername/secure-banking-api.git
+git clone https://github.com/Prathamk14/secure-banking-api
 cd secure-banking-api
 
 
